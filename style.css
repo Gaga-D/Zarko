@@ -13,7 +13,7 @@ ul {
 }
 
 li {
-    
+    display: inline;
     font-family: 'Open Sans', sans-serif;
 }
 
