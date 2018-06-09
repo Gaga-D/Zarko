@@ -1,4 +1,6 @@
-* font-family: 'Open Sans', sans-serif;
+body {
+    font-family: 'Open Sans', sans-serif;
+}
 ul {
     list-style-type: none;
     margin: 0;
