@@ -31,3 +31,7 @@ li a.active {
     color: black;
    
 }
+
+.text-center {
+    text-align: center;
+}
