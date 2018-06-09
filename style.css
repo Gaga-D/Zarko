@@ -8,6 +8,7 @@ ul {
     overflow: hidden;
     border-bottom: 1px solid #e7e7e7;
     text-align: center;
+    width: 100%;
 }
 
 li {
